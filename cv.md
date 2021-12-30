@@ -6,13 +6,15 @@
 * **GitHub:**[VeraMaks](https://github.com/VeraMaks/rsschool-cv/)
 ---
 ## Briefly About Myself:
-I work as QA Engineer(manual testing). 
-There are my duties:
+I work as QA Engineer(manual testing). I would like to improve my skills so now I am studing RS Schools Course «JavaScript/Front-end.Stage 0».
+
+There are my current duties:
 - Create test scenarios;
 - Check and review of the test cases and checklists;
 - Participation in requirements walkthroughs;
 - Report and tracking defects;
 - Functional testing
+
 ---
 ## Skills:
 - HTML, CSS;
@@ -41,6 +43,6 @@ Belarusian University of Informatics and Radioelectronics
 ## Languages:
 - English - B1;
 - Polish - A1;
-- Russin - Native
+- Russian - Native
 
 
