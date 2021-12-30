@@ -15,4 +15,32 @@ There are my duties:
 - Functional testing
 ---
 ## Skills:
+- HTML, CSS;
+- Git, GitHub;
+- VS Code, IntelliJ IDEA;
+- MS SQL;
+- JMeter;
+- Bug tracking systems
+---
+## Code example:
+```
+ function multiply(a, b){
+ let c = a * b;
+  return c;
+}
+let res = multiply(3, 2);
+```
+---
+## Education:
+Belarusian University of Informatics and Radioelectronics
+---
+## Courses:
+- English in Belhard and House of Officers;
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
+---
+## Languages:
+- English - B1;
+- Polish - A1;
+- Russin - Native
+
 
