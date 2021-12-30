@@ -34,7 +34,7 @@ let res = multiply(3, 2);
 ```
 ---
 ## Education:
-Belarusian University of Informatics and Radioelectronics
+- Belarusian University of Informatics and Radioelectronics
 ---
 ## Courses:
 - English in Belhard and House of Officers;
